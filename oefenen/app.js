@@ -1,11 +1,11 @@
 //Oefening 1
 
 //String
-let myName  = "Havin";
+const myName  = "Havin";
 //number
 let myAge = 16
 //Boolean
-let diploma = true;
+const diploma = true;
 //Undefined
 let passed =
 
