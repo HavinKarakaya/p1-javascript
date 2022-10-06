@@ -1,13 +1,13 @@
-//Oefening 1
+// Oefening 1
 
-//String
-const myName  = "Havin";
+String
+const myName = "Havin";
 //number
 let myAge = 16
 //Boolean
 const diploma = true;
 //Undefined
-let passed =
+let passed;
 
 
 document.write(myName);
@@ -15,18 +15,6 @@ document.write("<br>");
 document.write(myAge);
 document.write("<br>");
 document.write(diploma);
-document.write("<br>");
-document.write(passed);
-document.write("<br>");
-
-/*
-De 7 Operators zijn +optellen, -aftrekken, *vermenigvuldigen, /delen, ++ verhoging met 1,
--- verlaging met 1, % modulus rest na deling 
-*/
-
-
-//Oefening 2
-
 let num1 = 20
 let num2 = 3
  
@@ -54,3 +42,5 @@ document.write("<br>");
 let answer5 = num1 % num2
 document.write(answer5);
 document.write("<br>");
+
+
